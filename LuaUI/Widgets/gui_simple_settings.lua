@@ -148,7 +148,7 @@ local optionGenerationTable = {
 	{
 		optionName = "scrollSpeed",
 		chobbyName = "CameraPanSpeed",
-		name = "Scroll Speed",
+		name = "Edge Scroll Speed",
 		min = 1,
 		max = 200,
 		default = 50,
